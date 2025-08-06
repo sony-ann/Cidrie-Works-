@@ -1,23 +1,23 @@
 # CIDRIE WORKS 
 
-##QN 1 : File Parsing and Data Extraction
+QN 1 : File Parsing and Data Extraction
 
 
-#Extracting a specific data from a file and displaying it.
+Extracting a specific data from a file and displaying it.
 
-##QN 3 : Data Structures and Time Complexity
-
-
-#To check if a target sum in present in 1 million integers.
+QN 3 : Data Structures and Time Complexity
 
 
-##Qn 4 : OOP Design 
+To check if a target sum in present in 1 million integers.
 
 
-#Designing a Library Book system to know the availability of books and details about it.
+Qn 4 : OOP Design 
 
 
-##Qn 8 : Pandas Analysis
+Designing a Library Book system to know the availability of books and details about it.
 
 
-#To clean and fill missing data in student csv file and find average.
+Qn 8 : Pandas Analysis
+
+
+To clean and fill missing data in student csv file and find average.
