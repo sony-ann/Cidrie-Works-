@@ -28,7 +28,11 @@ The program captures live video, detects human faces, and draws bounding boxes a
 
 ## How It Works
 1.Webcam captures live video frames
+
 2.Each frame is converted to grayscale
+
 3.Haar Cascade detects faces in the frame
+
 4.Rectangles are drawn around detected faces
+
 5.Press 'Q' to exit the program
