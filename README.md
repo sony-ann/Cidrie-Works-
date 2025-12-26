@@ -22,11 +22,11 @@ Qn 8 : Pandas Analysis
 
 To clean and fill missing data in student csv file and find average.
 
-#Face Detection 
+# Face Detection 
 This project demonstrates real-time face detection using a webcam and Haar Cascade Classifier in OpenCV.  
 The program captures live video, detects human faces, and draws bounding boxes around them.
 
-##How It Works
+## How It Works
 1.Webcam captures live video frames
 2.Each frame is converted to grayscale
 3.Haar Cascade detects faces in the frame
